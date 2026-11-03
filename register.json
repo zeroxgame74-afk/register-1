@@ -10,6 +10,11 @@
   "openrepos.sh": {},
   "repos.one": {},
   "sourcepage.io": {},
-  "sourcepage.org": {},
+  "sourcepage.org": {
+    "ev18": {
+      "repo": "https://github.com/zeroxgame74-afk/EV18-MH",
+      "target": "zeroxgame74-afk.github.io"
+    }
+  },
   "sourcepage.sh": {}
 }
